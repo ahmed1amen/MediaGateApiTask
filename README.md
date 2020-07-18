@@ -45,11 +45,11 @@ An **API Project** which is curd system for users With Authentication [**JWT**] 
   
   
   
-  You Will found All Docs Here  http://127.0.0.1:8000/api/docs <br>  
-  Here's Where You Can Login  http://127.0.0.1:8000/api/login <br>  
-  Here's Where You Can Register  http://127.0.0.1:8000/api/register <br>  
+  You Will found All Docs Here  http://127.0.0.1:8000/api/docs <b> No Token Required</b> <br>   
+  Here's Where You Can Login  http://127.0.0.1:8000/api/login  <b> No Token Required</b>  <br>  
+  Here's Where You Can Register  http://127.0.0.1:8000/api/register  <b> No Token Required</b>  <br>  
   
-Here's Where You Can Manipulate The Data  http://127.0.0.1:8000/api/users <br>  
+Here's Where You Can Manipulate The Data  http://127.0.0.1:8000/api/users  <b> Token is Required</b> <br>    
     
   
   
